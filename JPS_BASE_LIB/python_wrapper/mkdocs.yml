@@ -1,6 +1,6 @@
 site_name: The World Avatar
 site_description: A knowledge-graph-based digital twin of the world.
-# site_url: # TODO tbd
+site_url: https://jb2197.github.io/TheWorldAvatar/
 
 theme:
   name: "material"
